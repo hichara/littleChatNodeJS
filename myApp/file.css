@@ -1,0 +1,36 @@
+
+
+
+p {
+	border-left: solid 3px red;
+	border-radius: 0px 0px 0px 5px;
+}
+
+h5 {
+	padding: 5px;
+	margin: 0px;
+	background-color: rgba(0,0,5,0.2);
+}
+
+li{
+	list-style: none;
+	border-radius: 5px;
+	box-shadow: 0px 0px 3px 0px rgba(0,15,5,0.2);
+}
+
+ul#qts_list{
+	height: 400px;
+	overflow: auto;
+}
+
+ul{
+	padding: 0px;
+}
+
+#intoMsg {
+	font-size: 25px;
+}
+
+.said{
+	color: rgb(1,1,1);
+}
